@@ -1,0 +1,9 @@
+# Node.js files
+.env
+package-lock.json
+node_modules/
+
+# JetBrains project files
+*.ipr
+*.iws
+.idea/
